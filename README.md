@@ -16,16 +16,16 @@
 </p>
 
 <div align="center">
-  <a href="[URL_DE_TU_LINKEDIN]" target="_blank">
+  <a href="https://www.linkedin.com/in/jesusmateosmartos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[URL_DE_TU_TWITTER]" target="_blank">
+  <a href="https://x.com/Nimex_92" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:[TU_CORREO_ELECTRONICO]">
+  <a href="mailto:nimex@nimex.es">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="[URL_DE_TU_PORTAFOLIO_O_WEB]" target="_blank">
+  <a href="https://nimex.es" target="_blank">
     <img src="https://img.shields.io/badge/Mi_Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
   </a>
 </div>
@@ -79,9 +79,9 @@
 
 <h3 align="left">📊 Mis Estadísticas de GitHub:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de Nimex" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nimex92&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de Nimex" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes más usados por Nimex" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nimex92&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes más usados por Nimex" />
 </p>
 <br>
 
@@ -89,12 +89,8 @@
 <table border="1">
   <tr>
     <td width="50%">
-      <h4 align="center"><a href="[URL_DEL_PROYECTO_1]">Nombre del Proyecto 1</a></h4>
-      <p>Descripción corta pero atractiva de tu primer proyecto. Menciona las tecnologías clave que usaste.</p>
-    </td>
-    <td width="50%">
-      <h4 align="center"><a href="[URL_DEL_PROYECTO_2]">Nombre del Proyecto 2</a></h4>
-      <p>Descripción del segundo proyecto. ¿Qué problema resuelve? ¿Qué aprendiste al hacerlo?</p>
+      <h4 align="center"><a href="[URL_DEL_PROYECTO_1]">Actualización ERP Empresa particular AccessDB -> Laravel</a></h4>
+      <p>En uno de mis anteriores empleos se estaba migrando el erp de empresa desde MS Access a Laravel, participacion activa en el proyecto causando incremento de mas deun 78% del rendimiento de la plantilla</p>
     </td>
   </tr>
 </table>
