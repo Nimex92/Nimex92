@@ -1,16 +1,106 @@
-## Hi there 👋
+<h1 align="center">
+  ¡Hola, soy Jesús Mateos (Nimex)! 👋
+</h1>
+<h3 align="center">
+  Desarrollador Junior FullStack 👨‍💻 | Apasionado por la tecnología y el aprendizaje continuo.
+</h3>
 
-<!--
-**Nimex92/Nimex92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="left">
+  Soy un desarrollador con ganas de crear soluciones innovadoras y eficientes. Me encanta enfrentarme a nuevos retos y colaborar en proyectos que dejen huella. Siempre estoy explorando nuevas tecnologías para mejorar mis habilidades.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/mouredev/mouredev/master/git-header.svg" alt="div-header" />
+</p>
+
+<div align="center">
+  <a href="[URL_DE_TU_LINKEDIN]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="[URL_DE_TU_TWITTER]" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:[TU_CORREO_ELECTRONICO]">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="[URL_DE_TU_PORTAFOLIO_O_WEB]" target="_blank">
+    <img src="https://img.shields.io/badge/Mi_Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
+  </a>
+</div>
+
+<br>
+
+<h3 align="left">🛠️ Lenguajes y Herramientas:</h3>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+
+  <br><br>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+
+  <br><br>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/mouredev/mouredev/master/git-header.svg" alt="div-header" />
+</p>
+
+<h3 align="left">📊 Mis Estadísticas de GitHub:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de Nimex" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes más usados por Nimex" />
+</p>
+<br>
+
+<h3 align="left">🚀 Proyectos Destacados:</h3>
+<table border="1">
+  <tr>
+    <td width="50%">
+      <h4 align="center"><a href="[URL_DEL_PROYECTO_1]">Nombre del Proyecto 1</a></h4>
+      <p>Descripción corta pero atractiva de tu primer proyecto. Menciona las tecnologías clave que usaste.</p>
+    </td>
+    <td width="50%">
+      <h4 align="center"><a href="[URL_DEL_PROYECTO_2]">Nombre del Proyecto 2</a></h4>
+      <p>Descripción del segundo proyecto. ¿Qué problema resuelve? ¿Qué aprendiste al hacerlo?</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  ¿Hablamos? ¡No dudes en contactarme!
+</p>
