@@ -64,8 +64,8 @@ Soy un desarrollador apasionado por la arquitectura de software y el aprendizaje
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nimex92&show_icons=true&locale=es&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nimex92&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats-one-eight.vercel.app/api?username=Nimex92&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de Nimex" />
+  <img width="46%" src="https://github-readme-stats-one-eight.vercel.app/api/top-langs?username=Nimex92&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes de Nimex" />
 </p>
 
 ---
@@ -94,7 +94,3 @@ Soy un desarrollador apasionado por la arquitectura de software y el aprendizaje
 </p>
 
 <br>
-
-<p align="center">
-  📫 <b>¿Hablamos?</b> Estoy abierto a colaboraciones y nuevas oportunidades.
-</p>
