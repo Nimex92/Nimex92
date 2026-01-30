@@ -28,7 +28,7 @@ Soy un desarrollador apasionado por la arquitectura de software y el aprendizaje
   <a href="mailto:nimex@nimex.es">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://nimex.es" target="_blank">
+  <a href="https://nimex.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
   </a>
 </div>
@@ -60,15 +60,6 @@ Soy un desarrollador apasionado por la arquitectura de software y el aprendizaje
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
-
-### 📊 Estadísticas de GitHub
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-one-eight.vercel.app/api?username=Nimex92&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de Nimex" />
-  <img width="46%" src="https://github-readme-stats-one-eight.vercel.app/api/top-langs?username=Nimex92&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes de Nimex" />
-</p>
-
----
 
 ### 🚀 Proyectos Destacados
 
