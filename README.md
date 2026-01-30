@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desarrollador Junior FullStack 👨‍💻 | Especializado en ecosistemas PHP y JavaScript
+  Desarrollador Junior FullStack 👨‍💻 | Especializado en ecosistemas PHP, .NET y JavaScript
 </h3>
 
 <p align="center">
@@ -39,35 +39,33 @@ Soy un desarrollador apasionado por la arquitectura de software y el aprendizaje
 
 **Frontend**
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
 **Backend & Bases de Datos**
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Nodejs" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 **DevOps & Herramientas**
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 📊 Estadísticas
+### 📊 Estadísticas de GitHub
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nimex92&show_icons=true&locale=es&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nimex92&show_icons=true&locale=es&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nimex92&show_icons=true&locale=es&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nimex92&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -76,13 +74,24 @@ Soy un desarrollador apasionado por la arquitectura de software y el aprendizaje
 
 <table>
   <tr>
-    <td width="100%">
-      <h4>✨ Migración ERP: De MS Access a Laravel</h4>
-      <p>Lideré la transición técnica de un sistema legacy en Access hacia una arquitectura moderna con Laravel. El resultado fue una optimización del flujo de trabajo y un <b>incremento del 78% en el rendimiento operativo</b> de la plantilla.</p>
-      <code>Laravel</code> <code>PHP</code> <code>SQL Server</code> <code>Bootstrap</code>
+    <td width="50%">
+      <h4>🛰️ Sistema de Inventariado RFID</h4>
+      <p>Gestión de stocks en tiempo real mediante tecnología <b>RFID</b>. Implementación de una arquitectura escalable para el control automatizado de activos y reducción de mermas.</p>
+      <code>.NET</code> <code>C#</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Docker</code>
+    </td>
+    <td width="50%">
+      <h4>✨ Migración ERP: Access a Laravel</h4>
+      <p>Lideré la transición de un sistema legacy hacia una arquitectura moderna con <b>Laravel</b>, logrando un <b>incremento del 78% en el rendimiento operativo</b>.</p>
+      <code>Laravel</code> <code>PHP</code> <code>SQL Server</code> <code>Optimización</code>
     </td>
   </tr>
 </table>
+
+<br>
+
+<p align="center">
+  📫 <b>¿Hablamos?</b> Estoy abierto a colaboraciones y nuevas oportunidades.
+</p>
 
 <br>
 
